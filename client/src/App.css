@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.new-post-form{
+  min-height: 242px;
+}
+
+.card-image{
+  margin: 16px;
+}
